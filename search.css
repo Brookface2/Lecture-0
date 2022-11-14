@@ -1,3 +1,27 @@
 .links{
-    display: flex;
+    margin-left: 90%;
+}
+
+.search{
+    margin-top: 25%;
+    text-align: center;
+}
+
+.sbox{
+    border-radius: 5px;
+}
+
+.Adbox{
+    width: 500px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.text{
+    text-align: left;
+}
+
+.text2{
+    width: -300px;
+    text-align: right;
 }
